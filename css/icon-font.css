@@ -23,21 +23,7 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.icon-skype:before {
-	content: "\e600";
-}
-.icon-facebook:before {
-	content: "\e601";
-}
-.icon-google:before {
-	content: "\e602";
-}
-.icon-linkedin:before {
-	content: "\e603";
-}
-.icon-twitter:before {
-	content: "\e604";
-}
+
 .icon-education:before {
 	content: "\e99a";
 }
@@ -55,7 +41,4 @@
 }
 .icon-projects:before {
 	content: "\ec00";
-}
-.icon-globe:before {
-	content: "\ec8e";
 }

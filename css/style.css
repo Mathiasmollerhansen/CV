@@ -112,8 +112,12 @@ small, .font-small {
 }
 
 .sidebar-subtitle {
-	margin-top: 0.2em;
+	margin-top: 0.09em;
 	font-size: 1.333em;
+}
+.sidebar-category {
+	margin-top: 0.02em;
+	font-size: 1.05em;
 }
 
 .button {
